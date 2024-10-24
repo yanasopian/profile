@@ -1,0 +1,39 @@
+B{color: blue; 
+  text-decoration: underline; 
+  font-family: Arial; 
+  font-size: 16;
+}
+.K0{text-align: center;}
+.K1{color: dark; 
+    font-family: Arial; 
+    font-size: 14;
+    font-weight: bold;
+    text-align: justify-all;
+}
+.K2{background-color: lightgreen;}
+.K3{background-color: lightpink;}
+.K4{color: black; 
+    font-family: Arial; 
+    font-size: 12;
+    font-weight: bold;
+    text-align: center;
+}
+.K5{background-color: yellow;}
+.K6{color: black; 
+    font-family: Arial; 
+    font-size: 12;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 3%;
+}
+.K7{border: 1px solid;
+	width: 100%;
+	border-collapse: collapse;
+}
+.K8{color: black; 
+    font-family: Arial; 
+    font-size: 12;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 3%;
+}
